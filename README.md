@@ -1,4 +1,4 @@
-## Hi there 👋
+## I barely know how to code but am self learning here! :) 
 
 <!--
 **riannanag/riannanag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
